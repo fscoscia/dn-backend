@@ -8,3 +8,4 @@ data/
 *.pyc
 *.db
 *.sqlite3
+.env

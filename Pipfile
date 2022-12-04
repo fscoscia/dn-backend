@@ -10,8 +10,8 @@ djangorestframework-simplejwt = "*"
 django-cors-headers = "*"
 requests = "*"
 gunicorn = "*"
+asgiref = "*"
+psycopg2 = "*"
+sqlparse = "*"
 
 [dev-packages]
-
-[requires]
-python_version = "3.9"
